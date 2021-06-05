@@ -1,0 +1,8 @@
+
+/* TEAM */
+	Name: Chris Collins
+	Site: https://webstarter.chriscollins.me
+	Twitter: @scottishstoater
+		
+/* SITE */
+	Doctype: HTML5
