@@ -1,8 +1,8 @@
 
 /* TEAM */
-	Name: Chris Collins
-	Site: https://webstarter.chriscollins.me
-	Twitter: @scottishstoater
+	Name: Chris Mack
+	Site: https://christmack.com
+	Twitter: @zcmack
 		
 /* SITE */
 	Doctype: HTML5
